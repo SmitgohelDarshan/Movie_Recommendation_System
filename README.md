@@ -44,10 +44,10 @@ The trained files are saved as pickle files and loaded when the API starts:
 │   ├── indices.pkl
 │   ├── tfidf_matrix.pkl
 │   ├── tfidf.pkl
+|   ├── requirements.txt
 │   └── .env                # TMDB_API_KEY
 ├── frontend/
 │   └── app.py              # Streamlit app
-├── requirements.txt
 └── README.md
 ```
 
