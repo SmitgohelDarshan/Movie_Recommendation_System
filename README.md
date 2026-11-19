@@ -7,7 +7,7 @@ A movie recommendation web app. Search for any movie, open its details page, and
 - **ML / NLP:** Text preprocessing → TF-IDF vectorization → Cosine similarity
 - **Dataset:** TMDB `movies_metadata.csv` (Kaggle)
 - **Posters and live data:** TMDB API
-
+- ** Here You can see my Project** :- [https://ai-fusio-umhzknith244lnybxglptx.streamlit.app/](https://ai-fusio-umhzknith244lnybxglptx.streamlit.app/)
 ---
 
 ## ✨ Features
